@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-background text-primary font-sans antialiased;
+}/* You can add global styles to this file, and also import other style files */
